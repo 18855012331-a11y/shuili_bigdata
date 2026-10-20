@@ -1,0 +1,17 @@
+# Python缓存与本地环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 编辑器、系统临时文件及本地配置
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+.env
+.env.*
+!.env.example
